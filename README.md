@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-This is my personal portfolio website built using the iPortfolio Bootstrap template from BootstrapMade.
+This is my personal portfolio website built using the iPortfolio Bootstrap template from BootstrapMade. I'm still working on this website.
 
 ## Live Demo
 [View the website on GitHub Pages](https://arthurchau79.github.io/)
